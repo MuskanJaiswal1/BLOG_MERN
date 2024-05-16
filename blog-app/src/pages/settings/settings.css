@@ -1,0 +1,9 @@
+.settings{
+    display: flex;
+    /* flex: 3; */
+}
+.settingsWrapper{
+    display: flex;
+    flex: 9;
+
+}
